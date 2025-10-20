@@ -3,9 +3,6 @@ package alboran;
 public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("¡Hola, Mundo! Este es mi primer programa versionado con Git");
-<<<<<<< HEAD
         System.out.println("Prueba holamundo");
-=======
->>>>>>> main
     }
 }
